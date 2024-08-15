@@ -6,7 +6,7 @@ The exercises below will launch with [Google Colab](https://colab.research.googl
 
 Once completing the excercise save a copy of your work in Google Drive so you can share it later.
 
-| Role             | Excercise           | Link                                                                                                                                                                                                   |
+| Role             | Excercise           | Link | Candidate Link                                                                                                                                                                                                   |
 | ---------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Data Analysis    | Visualisation       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_analysis_viz.ipynb)                |
 | Data Engineering | DuckDB SQL          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_engineering_duckdb.ipynb)          |
@@ -14,4 +14,4 @@ Once completing the excercise save a copy of your work in Google Drive so you ca
 | Data Science     | Retail Segmentation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_science_rfm.ipynb)                 |
 | Data Science     | Identity Resolution | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_science_identity_resolution.ipynb) |
 | Data Engineering | Streaming, SQL      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_engineering_event_stream.ipynb) |
-| Data Engineering | Requests, SpaceX    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_engineer_spacex_candidate.ipynb) |
+| Data Engineering | Requests, SpaceX    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_engineer_spacex_candidate.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/zitcha-data/notebooks/blob/main/notebooks/data_engineer_spacex_candidate.ipynb) |
